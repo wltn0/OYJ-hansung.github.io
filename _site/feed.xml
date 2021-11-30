@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Memoirs</title>
-    <description>I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!</description>
+    <title>Blog and Portfolio</title>
+    <description>I am a developer majoring in Artifcial Intelligence and Internet of Things.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 30 Nov 2021 17:02:48 +0900</pubDate>
-    <lastBuildDate>Tue, 30 Nov 2021 17:02:48 +0900</lastBuildDate>
+    <pubDate>Tue, 30 Nov 2021 17:30:36 +0900</pubDate>
+    <lastBuildDate>Tue, 30 Nov 2021 17:30:36 +0900</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
