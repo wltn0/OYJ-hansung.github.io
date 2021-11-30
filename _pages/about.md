@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My name is YoungJoo Oh
+title:  My name is YoungJooOh
 permalink: /about
 comments: false
 image: assets/images/about.jpeg

@@ -7,7 +7,7 @@ var documents = [{
     }, {
     "id": 1,
     "url": "/about",
-    "title": "My name is YoungJoo Oh",
+    "title": "My name is YoungJooOh",
     "body": "This is my personal website where I blog and update my portfolio. I wish you guys get some useful informations from this page. Any Feedback is welcomed! "
     }, {
     "id": 2,
