@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My name is YoungJoo Oh, and this is my personal Blog and Portfolio. 
+title: My name is YoungJoo Oh
 permalink: /about
 comments: false
 image: assets/images/screenshot.jpg
