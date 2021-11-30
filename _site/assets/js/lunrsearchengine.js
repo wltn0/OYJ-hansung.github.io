@@ -23,7 +23,7 @@ var documents = [{
     "id": 4,
     "url": "/contact",
     "title": "Contact",
-    "body": "  Please send your message to {{site. name}}. We will reply as soon as possible!   "
+    "body": "  Please send your message to {{site. name}}. I will reply as soon as possible!   "
     }, {
     "id": 5,
     "url": "/",
