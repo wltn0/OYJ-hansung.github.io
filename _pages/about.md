@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
+title: My name is YoungJoo Oh, and this is my personal Blog and Portfolio. 
 permalink: /about
 comments: false
 image: assets/images/screenshot.jpg
