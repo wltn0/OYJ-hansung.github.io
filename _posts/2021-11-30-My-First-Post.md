@@ -2,9 +2,9 @@
 layout: post
 title:  "카카오 Pathfinder 서류 합격!"
 author: YoungJoo
-categories: [ Sample ]
-tags: [ Sample ]
-image: assets/images/sample.jpg
+categories: [ challenge ]
+tags: [ kakao ]
+image: assets/images/pathfinder.png
 rating: 4.5
 ---
 
