@@ -2,7 +2,7 @@
 layout: post
 title:  "카카오 Pathfinder 코딩테스트 불합격 후기"
 author: YoungJoo
-categories: [ challenge ]
+categories: [challenge]
 tags: [ kakao ]
 image: assets/images/pathfinder.png
 rating: 4.5
