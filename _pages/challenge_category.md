@@ -1,5 +1,5 @@
 ---
 layout: categories
-title: Categories
+title: challenge_category
 permalink: /challenge_category
 ---
