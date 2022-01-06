@@ -1,7 +1,7 @@
 # Site
 name: "YoungJoo Oh"
 title: "Blog and Portfolio"
-description: "I am a developer majoring in Artifcial Intelligence and Internet of Things"
+description: "How I became an AI/IoT developer"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
